@@ -5,6 +5,6 @@ public class test_hje {
 		int x = 0;
 		int y = 0;
 		
-		System.out.println(x+" : "+y);
+		System.out.println("[hje]"+x+" : "+y);
 	}
 }
